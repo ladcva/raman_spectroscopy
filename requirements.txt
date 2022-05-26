@@ -2,7 +2,7 @@ absl-py==0.10.0
 aiohttp==3.7.4.post0
 anyio==3.3.4
 appnope==0.1.2
-argon2-cffi==21.1.0
+argon2-cffi
 astunparse==1.6.3
 async-generator==1.10
 async-timeout==3.0.1
@@ -28,7 +28,7 @@ click==8.0.3
 cmake==3.22.2
 cryptography==35.0.0
 cycler==0.11.0
-dataclasses==0.8
+dataclasses
 debugpy==1.5.1
 decorator==5.1.0
 defusedxml==0.7.1
@@ -43,7 +43,7 @@ google-pasta==0.2.0
 googleapis-common-protos==1.54.0
 graphviz==0.19.1
 grpcio==1.39.0
-h5py==3.1.0
+h5py==3.6.0
 idna==3.1
 importlib-metadata==4.8.2
 importlib-resources==5.4.0
@@ -134,12 +134,10 @@ tenacity==8.0.1
 tensorboard==2.7.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.6.0
+tensorflow-aarch64
 tensorflow-datasets==4.4.0
 tensorflow-estimator==2.6.0
-tensorflow-macos==2.6.0
 tensorflow-metadata==1.6.0
-tensorflow-metal==0.2.0
 termcolor==1.1.0
 terminado==0.12.1
 testpath==0.5.0
